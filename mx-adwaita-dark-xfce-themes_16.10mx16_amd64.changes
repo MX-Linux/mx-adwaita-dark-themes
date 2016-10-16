@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 16 Oct 2016 09:39:04 -0400
+Source: mx-adwaita-dark-xfce-themes
+Binary: mx-adwaita-dark-xfce-themes
+Architecture: source all
+Version: 16.10mx16
+Distribution: mx
+Urgency: low
+Maintainer: Dolphin Oracle <maintainer@mepiscommunity.org>
+Changed-By: dolphin oracle <dolphinoracle@gmail.com>
+Description:
+ mx-adwaita-dark-xfce-themes - Adwaita-dark-xfce themes for MX Linux
+Changes:
+ mx-adwaita-dark-xfce-themes (16.10mx16) mx; urgency=low
+ .
+   * Initial release
+Checksums-Sha1:
+ b563b8f1e06d750a28ae7accee3dbcd29e44b429 659 mx-adwaita-dark-xfce-themes_16.10mx16.dsc
+ 3351844a707367db9040f5f55fcbc0509e784735 182504 mx-adwaita-dark-xfce-themes_16.10mx16.tar.xz
+ 0b2e863d12c106e0ff20fc3a68cb3cca57528693 179226 mx-adwaita-dark-xfce-themes_16.10mx16_all.deb
+Checksums-Sha256:
+ e3b1dec693c8d80be5bb9b1094a72f3d271a41f53af1e79fe2f81dd8c691789f 659 mx-adwaita-dark-xfce-themes_16.10mx16.dsc
+ e1f59632e5a77ba42333835453c8ee2e47f935613cfb6c74e3aed63cb0ad77dd 182504 mx-adwaita-dark-xfce-themes_16.10mx16.tar.xz
+ 8cd36dfbe036555140131ca09d618dcb463ca633a949e09b1cde664911629278 179226 mx-adwaita-dark-xfce-themes_16.10mx16_all.deb
+Files:
+ 65a3f2aefb59e25cc63f09d102ed76cf 659 unknown extra mx-adwaita-dark-xfce-themes_16.10mx16.dsc
+ b1e152eff3d105df52b9d064d3a25c81 182504 unknown extra mx-adwaita-dark-xfce-themes_16.10mx16.tar.xz
+ 90fb5c19f9c119c76b9d16a0100ae0a3 179226 unknown extra mx-adwaita-dark-xfce-themes_16.10mx16_all.deb

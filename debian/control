@@ -1,0 +1,12 @@
+Source: mx-adwaita-dark-xfce-themes
+Section: unknown
+Priority: extra
+Maintainer: Dolphin Oracle <maintainer@mepiscommunity.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+
+Package: mx-adwaita-dark-xfce-themes
+Architecture: all
+Depends: ${misc:Depends}
+Description: Adwaita-dark-xfce themes for MX Linux
+
