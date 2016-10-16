@@ -1,1 +1,1 @@
-# mx-adwaita-dark-themes
+# mx-adwaita-dark-theme
